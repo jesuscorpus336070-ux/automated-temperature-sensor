@@ -20,8 +20,8 @@ This project reads the analog voltage from a TMP36 temperature sensor and conver
 *   1x Small Breadboard
 
 ## 🔌 Circuit Design
-*   **Schematic:** [View Schematic](./docs/automated_temperature_sensor_.pdf)
-*   **Breadboard Layout:** [View Breadboard Layout](./docs/Automated%20Temperature%20Sensor.pdf)
+*   **Schematic:** [View Schematic](./docs/AutomatedTemperatureSensor.pdf)
+*   **Breadboard Layout:** [View Breadboard Layout](./AutomatedTemperatureSensor.png)
 
 ## 💻 How It Works
 1.  The TMP36 sensor outputs an analog voltage proportional to the temperature.
