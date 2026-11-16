@@ -40,7 +40,7 @@ You can view the full files here:
 6.  Open the **Serial Monitor** (set to 9600 baud) to view the temperature.
 
 ## 🧪 Simulation
-You can view and simulate this project directly on Tinkercad: *(Link coming soon)*
+You can view and simulate this project directly on Tinkercad: [ https://www.tinkercad.com/things/1tF61rGOqtn-automated-temperature-sensor ]
 
 ## 👨‍💻 Author
 **Jesus Aurelio Corpus**
