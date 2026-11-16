@@ -1,7 +1,7 @@
 /*
  * Project: Automated Temperature Sensor
- * Author: [Your Name]
- * Date: [Date]
+ * Author: Jesus Aurelio Corpus
+ * Date: November 15, 2026
  * 
  * Description: Reads TMP36 sensor and controls LEDs based on temperature thresholds.
  */
